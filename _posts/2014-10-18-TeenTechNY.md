@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Having fun at the Conference
